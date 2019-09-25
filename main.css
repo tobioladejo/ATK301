@@ -1,0 +1,30 @@
+h1{
+  font-size: 2em;
+  color: #3A1501;
+}
+
+h2{
+  color: #3A1501;
+
+}
+
+p {
+   color: #3A1501;
+}
+
+body{
+  background-color: #FACCB4;
+  font-family: 'Acme', sans-serif;
+}
+.imgbox {
+    border: 2px solid #ff0000;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
+    background-color: #0000ff;
+}
+
+.specialp {
+   color: #0000ff;
+}
+
+

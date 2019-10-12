@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head class="boxmodel">
+<meta charset="UTF-8">
+<title>Poster</title>
+<link rel="stylesheet" href="poster.css">
+
+</head>
+
+<body>
+  <div>
+<h3 class="writtenanddirectedby"> WRITTEN AND DIRECTED BY</h3>
+<h2 class= "joelandethan"> JOEL &amp; ETHAN COEN</h2>
+
+<h3 class="starring">STARRING</h3>
+<h2 class="oscarissac">OSCAR ISAAC</h2>
+<h2 class="johngoodman">JOHN GOODMAN</h2>
+<h2 class="garrett">GARRETT HEDLUND</h2>
+<h2 class="justin">JUSTIN TIMBERLAKE</h2>
+
+<h1 class="insidellewyndavis">
+  INSIDE<br>
+  LLEWYN<br>
+  DAVIS</h1>
+
+  <img class="imgbox" src="guitar.png" alt="guitar" />
+
+
+<h3 class="comingsoon"> COMING SOON</h3>
+
+<a href="http:www.insidellewyndavis.com"> www.insidellewyndavis.com</a>
+</div>
+
+</body>
+</html>

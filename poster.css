@@ -1,0 +1,79 @@
+body {
+text-align: center;
+font-family: 'Helvetica', sans-serif;
+background-color: black;
+color: #759497;
+border-top: 10px solid #759497;
+border-bottom: 10px solid #759497;
+margin: 0;
+}
+
+div {
+  background-image: url(backgroundpaper.png);
+  width: 500px;
+  margin: auto;
+}
+.insidellewyndavis {
+  color: black;
+  font-size: 60px;
+  line-height: 50px;
+}
+
+.comingsoon{
+  color: black;
+}
+
+.writtenanddirectedby{
+  color:black;
+  border-bottom: 1px solid black;
+  width: 300px;
+margin-top: 10px;
+margin-left: 100px;
+padding: 5px;
+}
+
+.starring {
+color: #75949;
+border-bottom: 1px solid #759497;
+  width: 285px;
+margin-top: -10px;
+margin-bottom: -10px;
+margin-left: 100px;
+padding: 10px;
+line-height: 10px;
+}
+
+.joelandethan{
+  color:black;
+  margin-top: 10px;
+  margin-bottom: 25px;
+  padding: -10px;
+  line-height: 10px;
+}
+
+.oscarissac{
+  line-height: 10px;
+}
+.johngoodman{
+  line-height: 10px;
+}
+.garrett{
+  line-height: 10px;
+}
+.justin{
+  line-height: 10px;
+}
+/*link decoration*/
+a:link{
+color: #759497;
+}
+a:hover {
+  color:white;
+}
+a {
+   text-decoration: none;
+}
+
+a:hover {
+   text-decoration: underline;
+}

@@ -1,0 +1,76 @@
+.aboutmeback{
+  background: 100px;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+
+body{
+  background-color: #deb492
+}
+
+iframe{
+  float: right;
+  margin-right: 30%;
+}
+
+h1{
+color: #EEEE;
+margin-bottom: 20px;
+padding-top: 100px;
+padding-bottom: 5px;
+text-align: center;
+margin-bottom: 50px;
+}
+
+h2{
+  text-align: center;
+  color: black;
+  line-height: 150%;
+}
+
+div.gallery{
+    margin: 170px;
+    float: left;
+    width: 180px;
+  }
+}
+
+div.gallery img {
+  width: 50%;
+  height: auto;
+}
+
+ul{
+  list-style-type: none;
+  text-align: center;
+}
+
+/*li {
+  float: left;
+}
+*/
+
+
+li a {
+  display: block;
+  color: #EEEE;
+  text-align: center;
+  padding: 30px;
+  text-decoration:none;
+
+}
+
+
+nav li {
+   display: inline;
+   padding: 15px;
+   border: 1px solid black;
+   margin-left:120px;
+   margin-bottom: 10px;
+   float: left;
+   text-align: center;
+
+}
+li:hover{
+  background-color: #925524;
+}
